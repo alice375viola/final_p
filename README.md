@@ -66,12 +66,9 @@ source venv/bin/activate
 pip3 install --upgrade pip
 pip3 install flask psycopg2-binary
 ```
+ 
 
-8. Run
-   python app.py
-   
-
-10. Run the server:
+8. Run the server:
     ```bash
     cd final_project
     python app.py    
